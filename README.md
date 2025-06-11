@@ -11,6 +11,7 @@ This is a simple Java-based Student Management System following the **MVC (Model
 
 ## 🧩 Project Structure
 
+```
 StudentMVCApp/
 │
 ├── Model/
@@ -29,7 +30,7 @@ StudentMVCApp/
 ├── Main/
 │ ├── Main.java
 │ └── MyMain.java
-
+```
 
 ## 💡 How to Run
 
